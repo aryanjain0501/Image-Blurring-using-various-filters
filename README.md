@@ -15,14 +15,14 @@ drawback as a feature to demonstrate our project. The filters used to blur are:
 > 2. Median Filter
 > 3. Gaussian Filter
 > 4. Bilateral Filter
-> To end our study of the several filters, we take a test image and blur only a section of it as a real-world application.
+> 5. To end our study of the several filters, we take a test image and blur only a section of it as a real-world application.
 
 #### Mean Filter ####
 Average (or mean) filtering is a technique for smoothing images by lowering the amount of variation in intensity between neighbouring pixels. This filter works by taking the average of the pixels in the kernel and replacing it with the centre pixel. The kernel's elements are all the same and add up to 1. The kernel must be of an odd size. As a result, the kernel size is 2a+1 x 2b+1.
 
 </br>
 **Results**
-</br>
+
 ![image](https://user-images.githubusercontent.com/69236709/147954893-ee788007-70b6-4692-8edc-3f8c59ed52ca.png)
 
 
@@ -31,7 +31,7 @@ The median filter is a non-linear digital filtering technique that may be used t
 
 </br>
 **Results**
-</br>
+
 ![image](https://user-images.githubusercontent.com/69236709/147955010-43113ad1-d804-4a93-8cf5-ab5b01024af9.png)
 
 
@@ -40,7 +40,7 @@ The Gaussian smoothing operator is a 2-D convolution operator for blurring pictu
 
 </br>
 **Results**
-</br>
+
 ![image](https://user-images.githubusercontent.com/69236709/147955094-39bf6514-d2f9-41e2-b716-d5ec23d15680.png)
 
 
@@ -50,7 +50,7 @@ We can utilize bilateral blurring to minimise noise while retaining edges. By in
 
 </br>
 **Results**
-</br>
+
 ![image](https://user-images.githubusercontent.com/69236709/147955198-7a2a71d5-048e-456e-ab4f-cc01a742ea59.png)
 
 </br>
