@@ -54,7 +54,7 @@ We can utilize bilateral blurring to minimise noise while retaining edges. By in
 ![image](https://user-images.githubusercontent.com/69236709/147955198-7a2a71d5-048e-456e-ab4f-cc01a742ea59.png)
 </br>
 
-**blurring only part of an image**
+**Blurring only part of an Image**
 
 ![image](https://user-images.githubusercontent.com/69236709/147955327-a7163a3c-09d8-433a-ab00-570163f3b613.png)
 
